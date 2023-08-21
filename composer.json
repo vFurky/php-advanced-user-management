@@ -1,0 +1,21 @@
+{
+    "name": "user/",
+    "description": "Secure, Fast and Convenient User Registration and Login Form.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "User\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vFurky"
+        }
+    ],
+    "require": {
+        "spomky-labs/otphp": "^11.2",
+        "paragonie/constant_time_encoding": "^2.6",
+        "symfony/translation": "^6.3",
+        "symfony/yaml": "^6.3"
+    }
+}

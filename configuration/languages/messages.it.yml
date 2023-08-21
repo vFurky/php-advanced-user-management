@@ -1,0 +1,88 @@
+# Italiano - Italian
+
+# homepage.php
+welcome-message: Benvenuto
+welcome-text: Benvenuto nella famiglia Los Pallos Hermanos.
+installation-notcomplete-message: Non hai completato l'installazione, le tue azioni potrebbero essere limitate!
+
+# Profile Dropdown
+my-profile: Il mio profilo
+settings: Impostazioni
+security: Sicurezza
+logout: Logout
+
+# settings.php
+profile-settings: Impostazioni del profilo
+account-details: Dettagli dell'account
+first-name: Nome
+last-name: Cognome
+organization-name: Nome dell'organizzazione
+location: Posizione
+email-address: Indirizzo email
+phone-number: Numero di telefono
+select-gender: Seleziona il genere
+select-male: Maschio
+select-female: Femmina
+select-specify: Non specificare
+biography: Biografia
+language: Lingua
+save-changes: Salva modifiche
+upload-button: Carica
+reset-button: Reimposta
+allowed-types: Sono consentiti solo file PNG, JPEG, JPG.
+notready-use-yet: Questa funzionalità non è ancora pronta per l'uso.
+onlyimage: Solo immagini, massimo 5 MB.
+select-language: Seleziona la lingua
+
+# settings.php details
+settings-enter-firstname: Inserisci il tuo nome
+settings-enter-lastname: Inserisci il tuo cognome
+settings-enter-orgname: Inserisci il nome dell'organizzazione
+settings-enter-location: Inserisci la tua posizione
+settings-enter-email: Inserisci il tuo indirizzo email
+settings-enter-phonenum: Inserisci il tuo numero di telefono
+settings-enter-biography: Inserisci la tua biografia
+settings-select-gender: Seleziona il tuo genere
+settings-select-language: Seleziona la lingua
+
+# Languages
+language-de: Tedesco / Deutsch
+language-en: Inglese / English
+language-es: Spagnolo / Español
+language-it: Italiano / Italiano
+language-pt: Portoghese / Português
+language-ru: Russo / Русский
+language-tr: Turco / Türkçe
+
+# profile.php
+profile-profile: Profilo
+profile-username: Nome utente
+profile-full-name: Nome completo
+profile-orgname: Nome dell'organizzazione
+profile-location: Posizione
+profile-email: Email
+profile-phone: Numero di telefono
+profile-gender: Genere
+profile-biography: Biografia
+
+# security.php
+security-security: Sicurezza
+security-change-password: Cambia password
+security-current-password: Password attuale
+security-new-password: Nuova password
+security-new-repassword: Nuova password (ripeti)
+security-change-password-btn: Cambia password
+dltacc-dltacc: Elimina account
+dltacc-warning: Confermo che il mio account verrà eliminato e i miei dati non potranno essere recuperati.
+dltacc-dltacc-btn: Elimina il mio account
+2fa-2fa: Autenticazione a due fattori
+2fa-status: Stato
+2fa-enabled: Attivato
+2fa-disabled: Disattivato
+2fa-message: Si prega di scansionare il codice QR qui sotto tramite l'app Google Authenticator.
+
+# 404.php
+404-oops: Oops!
+404-page-not-found: Pagina non trovata!
+404-you-looking-for: La pagina che stai cercando potrebbe essere stata eliminata o non è ancora stata creata.
+404-back-home: Torna alla pagina iniziale

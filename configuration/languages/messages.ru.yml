@@ -1,0 +1,88 @@
+# Русский - Russian
+
+# homepage.php
+welcome-message: Добро пожаловать
+welcome-text: Добро пожаловать в семью Los Pallos Hermanos.
+installation-notcomplete-message: Вы не завершили установку, ваши действия могут быть ограничены!
+
+# Profile Dropdown
+my-profile: Мой профиль
+settings: Настройки
+security: Безопасность
+logout: Выйти
+
+# settings.php
+profile-settings: Настройки профиля
+account-details: Детали аккаунта
+first-name: Имя
+last-name: Фамилия
+organization-name: Название организации
+location: Местоположение
+email-address: Адрес электронной почты
+phone-number: Номер телефона
+select-gender: Выберите пол
+select-male: Мужской
+select-female: Женский
+select-specify: Не указывать
+biography: Биография
+language: Язык
+save-changes: Сохранить изменения
+upload-button: Загрузить
+reset-button: Сбросить
+allowed-types: Разрешены только файлы PNG, JPEG, JPG.
+notready-use-yet: Эта функция еще не готова к использованию.
+onlyimage: Только изображения, максимум 5 МБ.
+select-language: Выберите язык
+
+# settings.php details
+settings-enter-firstname: Введите свое имя
+settings-enter-lastname: Введите свою фамилию
+settings-enter-orgname: Введите название организации
+settings-enter-location: Введите свое местоположение
+settings-enter-email: Введите свой адрес электронной почты
+settings-enter-phonenum: Введите свой номер телефона
+settings-enter-biography: Введите свою биографию
+settings-select-gender: Выберите свой пол
+settings-select-language: Выберите язык
+
+# Languages
+language-de: Немецкий / Deutsch
+language-en: Английский / English
+language-es: Испанский / Español
+language-it: Итальянский / Italiano
+language-pt: Португальский / Português
+language-ru: Русский / Русский
+language-tr: Турецкий / Türkçe
+
+# profile.php
+profile-profile: Профиль
+profile-username: Имя пользователя
+profile-full-name: Полное имя
+profile-orgname: Название организации
+profile-location: Местоположение
+profile-email: Email
+profile-phone: Номер телефона
+profile-gender: Пол
+profile-biography: Биография
+
+# security.php
+security-security: Безопасность
+security-change-password: Изменить пароль
+security-current-password: Текущий пароль
+security-new-password: Новый пароль
+security-new-repassword: Новый пароль (еще раз)
+security-change-password-btn: Изменить пароль
+dltacc-dltacc: Удаление аккаунта
+dltacc-warning: Подтверждаю, что мой аккаунт будет удален и мои данные не могут быть восстановлены.
+dltacc-dltacc-btn: Удалить аккаунт
+2fa-2fa: Двухфакторная аутентификация
+2fa-status: Статус
+2fa-enabled: Включено
+2fa-disabled: Отключено
+2fa-message: Пожалуйста, отсканируйте QR-код ниже с помощью приложения Google Authenticator.
+
+# 404.php
+404-oops: Ой!
+404-page-not-found: Страница не найдена!
+404-you-looking-for: Искомая страница была удалена или еще не создана.
+404-back-home: Вернуться на главную страницу

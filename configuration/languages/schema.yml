@@ -1,0 +1,88 @@
+# Schema
+
+# homepage.php
+welcome-message:
+welcome-text:
+installation-notcomplete-message:
+
+# Profile Dropdown
+my-profile:
+settings:
+security:
+logout:
+
+# settings.php
+profile-settings:
+account-details:
+first-name:
+last-name:
+organization-name:
+location:
+email-address:
+phone-number:
+select-gender:
+select-male:
+select-female:
+select-specify:
+biography:
+language:
+save-changes:
+upload-button:
+reset-button:
+allowed-types:
+notready-use-yet:
+onlyimage:
+select-language:
+
+# settings.php details
+settings-enter-firstname:
+settings-enter-lastname:
+settings-enter-orgname:
+settings-enter-location:
+settings-enter-email:
+settings-enter-phonenum:
+settings-enter-biography:
+settings-select-gender:
+settings-select-language:
+
+# Languages
+language-de:
+language-en:
+language-es:
+language-it:
+language-pt:
+language-ru:
+language-tr:
+
+# profile.php
+profile-profile:
+profile-username:
+profile-full-name:
+profile-orgname:
+profile-location:
+profile-email:
+profile-phone:
+profile-gender:
+profile-biography:
+
+# security.php
+security-security:
+security-change-password:
+security-current-password:
+security-new-password:
+security-new-repassword:
+security-change-password-btn:
+dltacc-dltacc:
+dltacc-warning:
+dltacc-dltacc-btn:
+2fa-2fa:
+2fa-status:
+2fa-enabled:
+2fa-disabled:
+2fa-message:
+
+# 404.php
+404-oops:
+404-page-not-found:
+404-you-looking-for:
+404-back-home:

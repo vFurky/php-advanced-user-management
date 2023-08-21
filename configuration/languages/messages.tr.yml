@@ -1,0 +1,88 @@
+# Türkçe - Turkish
+
+# homepage.php
+welcome-message: Hoşgeldin
+welcome-text: Los Pallos Hermanos ailesine hoş geldin.
+installation-notcomplete-message: Kurulumu henüz tamamlamadınız, işlemleriniz kısıtlanabilir!
+
+# Profile Dropdown
+my-profile: Profilim
+settings: Ayarlar
+security: Güvenlik
+logout: Çıkış Yap
+
+# settings.php
+profile-settings: Profil Ayarları
+account-details: Hesap Detayları
+first-name: İsim
+last-name: Soyisim
+organization-name: Organizasyon İsmi
+location: Konum
+email-address: E-Posta Adresi
+phone-number: Telefon Numarası
+select-gender: Cinsiyet
+select-male: Erkek
+select-female: Kadın
+select-specify: Belirtmek İstemiyorum.
+biography: Biyografi
+language: Dil
+save-changes: Değişiklikleri Kaydet
+upload-button: Yükle
+reset-button: Sıfırla
+allowed-types: Sadece PNG, JPEG, JPG dosya türleri kullanılabilir.
+notready-use-yet: Bu özellik henüz kullanıma hazır değil.
+onlyimage: Sadece resim, en fazla 5 MB.
+select-language: Dil
+
+# settings.php details
+settings-enter-firstname: Adınızı girin
+settings-enter-lastname: Soyadınızı girin
+settings-enter-orgname: Organizasyon adını girin
+settings-enter-location: Konumunuzu girin
+settings-enter-email: E-Posta adresinizi girin
+settings-enter-phonenum: Telefon numaranızı griin
+settings-enter-biography: Biyografinizi girin
+settings-select-gender: Cinsiyetinizi seçin
+settings-select-language: Dili seçin
+
+# Languages
+language-de: Almanca / Deutsch
+language-en: İngilizce / English
+language-es: İspanyolca / Español
+language-it: İtalyanca / Italiano
+language-pt: Portekizce / Português
+language-ru: Rusça / Русский
+language-tr: Türkçe / Türkçe
+
+# profile.php
+profile-profile: Profil
+profile-username: Kullanıcı Adı
+profile-full-name: Tam İsim
+profile-orgname: Organizasyon İsmi
+profile-location: Konum
+profile-email: E-Posta
+profile-phone: Telefon Numarası
+profile-gender: Cinsiyet
+profile-biography: Biyografi
+
+# security.php
+security-security: Güvenlik
+security-change-password: Parola Değiştir
+security-current-password: Mevcut Parola
+security-new-password: Yeni Parola
+security-new-repassword: Yeni Parola (Tekrar)
+security-change-password-btn: Parolayı Değiştir
+dltacc-dltacc: Hesap Silme
+dltacc-warning: Hesabımın silineceğini ve verilerimini geri getirilemeyeceğini onaylıyorum.
+dltacc-dltacc-btn: Hesabımı Sil
+2fa-2fa: 2 Faktörlü Doğrulama
+2fa-status: Durum
+2fa-enabled: Aktif
+2fa-disabled: Pasif
+2fa-message: Lütfen aşağıdaki QR kodunu Google Authenticator uygulamasından okutun.
+
+# 404.php
+404-oops: Haydaa!
+404-page-not-found: Sayfa bulunamadı!
+404-you-looking-for: Aradığınız sayfa silinmiş veya henüz oluşturulmamış gibi.
+404-back-home: Anasayfaya Dön

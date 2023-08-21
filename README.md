@@ -1,10 +1,5 @@
 # php-advanced-user-management
-Advanced user management system with PHP. 
+PHP ile hazırlanmış gelişmiş kullanıcı yönetim sistemi.
 
 # Features
-<ul>
-  <li>Multi-Language Supported.</li>
-  <li>Using PHP and JS.</li>
-  <li>2 Factor-Authentication, Manage Account Details.</li>
-  <li>Safe Login, Logout etc. processes.</li>
-</ul>
+Çoklu dil desteği, 2FA özelliği, hesap ayarlarını düzenleme, hesap silme, Bootstrap 5, SweetAlert2, FeatherIcons, FontAwesome destekli.

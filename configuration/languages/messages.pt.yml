@@ -1,0 +1,88 @@
+# Português - Portuguese
+
+# homepage.php
+welcome-message: Bem-vindo
+welcome-text: Bem-vindo à família Los Pallos Hermanos.
+installation-notcomplete-message: A instalação não está completa, suas ações podem ser restritas!
+
+# Profile Dropdown
+my-profile: Meu perfil
+settings: Configurações
+security: Segurança
+logout: Sair
+
+# settings.php
+profile-settings: Configurações do perfil
+account-details: Detalhes da conta
+first-name: Nome
+last-name: Sobrenome
+organization-name: Nome da organização
+location: Localização
+email-address: Endereço de e-mail
+phone-number: Número de telefone
+select-gender: Selecione o gênero
+select-male: Masculino
+select-female: Feminino
+select-specify: Não especificar
+biography: Biografia
+language: Idioma
+save-changes: Salvar alterações
+upload-button: Enviar
+reset-button: Redefinir
+allowed-types: Apenas arquivos PNG, JPEG, JPG são permitidos.
+notready-use-yet: Esta funcionalidade ainda não está pronta para uso.
+onlyimage: Apenas imagens, no máximo 5 MB.
+select-language: Selecione o idioma
+
+# settings.php details
+settings-enter-firstname: Digite seu nome
+settings-enter-lastname: Digite seu sobrenome
+settings-enter-orgname: Digite o nome da organização
+settings-enter-location: Digite sua localização
+settings-enter-email: Digite seu endereço de e-mail
+settings-enter-phonenum: Digite seu número de telefone
+settings-enter-biography: Digite sua biografia
+settings-select-gender: Selecione seu gênero
+settings-select-language: Selecione o idioma
+
+# Languages
+language-de: Alemão / Deutsch
+language-en: Inglês / English
+language-es: Espanhol / Español
+language-it: Italiano / Italiano
+language-pt: Português / Português
+language-ru: Russo / Русский
+language-tr: Turco / Türkçe
+
+# profile.php
+profile-profile: Perfil
+profile-username: Nome de usuário
+profile-full-name: Nome completo
+profile-orgname: Nome da organização
+profile-location: Localização
+profile-email: E-mail
+profile-phone: Número de telefone
+profile-gender: Gênero
+profile-biography: Biografia
+
+# security.php
+security-security: Segurança
+security-change-password: Alterar senha
+security-current-password: Senha atual
+security-new-password: Nova senha
+security-new-repassword: Nova senha (novamente)
+security-change-password-btn: Alterar senha
+dltacc-dltacc: Excluir conta
+dltacc-warning: Confirmo que minha conta será excluída e meus dados não poderão ser recuperados.
+dltacc-dltacc-btn: Excluir minha conta
+2fa-2fa: Autenticação de dois fatores
+2fa-status: Status
+2fa-enabled: Ativado
+2fa-disabled: Desativado
+2fa-message: Por favor, digitalize o código QR abaixo usando o aplicativo Google Authenticator.
+
+# 404.php
+404-oops: Ops!
+404-page-not-found: Página não encontrada!
+404-you-looking-for: A página que você está procurando pode ter sido excluída ou ainda não foi criada.
+404-back-home: Voltar para a página inicial

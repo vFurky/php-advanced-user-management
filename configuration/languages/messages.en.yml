@@ -1,0 +1,88 @@
+# English - English
+
+# homepage.php
+welcome-message: Welcome
+welcome-text: Welcome to the Los Pallos Hermanos family.
+installation-notcomplete-message: You haven't completed the installation yet, your actions may be restricted!
+
+# Profile Dropdown
+my-profile: My Profile
+settings: Settings
+security: Security
+logout: Log Out
+
+# settings.php
+profile-settings: Profile Settings
+account-details: Account Details
+first-name: First Name
+last-name: Last Name
+organization-name: Organization Name
+location: Location
+email-address: Email Address
+phone-number: Phone Number
+select-gender: Gender
+select-male: Male
+select-female: Female
+select-specify: Prefer not to specify
+biography: Biography
+language: Language
+save-changes: Save Changes
+upload-button: Upload
+reset-button: Reset
+allowed-types: Only PNG, JPEG, JPG file types are allowed.
+notready-use-yet: This feature is not ready for use yet.
+onlyimage: Only image, maximum 5 MB.
+select-language: Select Language
+
+# settings.php details
+settings-enter-firstname: Enter your first name
+settings-enter-lastname: Enter your last name
+settings-enter-orgname: Enter organization name
+settings-enter-location: Enter your location
+settings-enter-email: Enter your email address
+settings-enter-phonenum: Enter your phone number
+settings-enter-biography: Enter your biography
+settings-select-gender: Select your gender
+settings-select-language: Select language
+
+# Languages
+language-de: German / Deutsch
+language-en: English / English
+language-es: Spanish / Español
+language-it: Italian / Italiano
+language-pt: Portuguese / Português
+language-ru: Russian / Русский
+language-tr: Turkish / Türkçe
+
+# profile.php
+profile-profile: Profile
+profile-username: Username
+profile-full-name: Full Name
+profile-orgname: Organization Name
+profile-location: Location
+profile-email: Email
+profile-phone: Phone Number
+profile-gender: Gender
+profile-biography: Biography
+
+# security.php
+security-security: Security
+security-change-password: Change Password
+security-current-password: Current Password
+security-new-password: New Password
+security-new-repassword: New Password (Again)
+security-change-password-btn: Change Password
+dltacc-dltacc: Delete Account
+dltacc-warning: I confirm that my account will be deleted and my data cannot be recovered.
+dltacc-dltacc-btn: Delete My Account
+2fa-2fa: Two-Factor Authentication
+2fa-status: Status
+2fa-enabled: Enabled
+2fa-disabled: Disabled
+2fa-message: Please scan the QR code below with the Google Authenticator app.
+
+# 404.php
+404-oops: Oops!
+404-page-not-found: Page not found!
+404-you-looking-for: The page you are looking for may have been deleted or not yet created.
+404-back-home: Back to Home
